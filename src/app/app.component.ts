@@ -1,3 +1,4 @@
+
 import { Component } from '@angular/core';
 
 @Component({
@@ -9,3 +10,4 @@ export class AppComponent {
   title: string = 'northwind';
   user: string = 'Bekir Atlı';
 }
+
